@@ -22,6 +22,6 @@ function doWhileLoop(array) {
 do {
   array.pop();
 } while {
-  array
+  array.length > -1 &&  
 }
 }
